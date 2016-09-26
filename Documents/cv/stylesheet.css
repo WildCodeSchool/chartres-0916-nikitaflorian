@@ -1,0 +1,74 @@
+@chartset "UTF-8";
+
+@font-face {
+	font-family: "Lobster";
+	src:"font/OLF.txt";
+}
+
+body {
+
+
+background-color: rgb(104, 187, 285);
+
+}
+
+
+#left-box{
+
+	float: left;
+	background-color: rgb(9, 30, 45);
+	color: white;
+	width: 205px;
+	
+}
+
+
+
+#right-box {
+
+margin-left: 225px;
+width: 700px;
+
+
+}
+
+
+#experience-box {
+
+	background-color: white;
+
+	
+}
+
+
+#studies-box{
+
+	background-color: white;
+
+	
+}
+
+h1, h2, h3 {
+
+	font-family: "Lobster";
+}
+
+h1 {
+
+	text-align: center;
+}	
+
+img {
+
+	height: 150px;
+}
+
+
+#footer {
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    text-align: center
+}
